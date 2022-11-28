@@ -1,0 +1,14 @@
+{
+  "name": "parcel-transformer-commit-hash",
+  "version": "1.0.0",
+  "description": "Parcel transformer to include the current commit hash",
+  "main": "index.js",
+  "repository": "https://github.com/cfelegy/parcel-transformer-commit-hash",
+  "author": "Christopher Felegy",
+  "license": "ISC",
+  "private": false,
+  "dependencies": {
+    "@parcel/plugin": "^2.8.0",
+    "simple-git": "^3.15.0"
+  }
+}
